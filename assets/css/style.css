@@ -1,0 +1,44 @@
+#muur{
+    width: 500px;
+    height: 300px;
+    background-color: #d9d9d9;
+    display: flex;
+}
+#steen1{
+    background-color: orange;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-right: 5px;
+}
+
+#steen2{
+    background-color: orange;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-right: 5px;
+}
+
+#steen3{
+    background-color: orange;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-right: 5px;
+}
+
+#steen4{
+    background-color: orange;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-right: 5px;
+}
+
+#steen5{
+    background-color: orange;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+}
